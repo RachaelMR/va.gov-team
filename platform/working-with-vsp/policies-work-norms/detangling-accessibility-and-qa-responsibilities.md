@@ -13,9 +13,9 @@ VFS teams are sometimes confused about what the DEPO Platform's standards are: w
 ## Action plan
 
 ### Accessibility
-- [ ] Publish clear standards that the DEPO Platform will enforce
+- [x] Publish clear standards that the DEPO Platform will enforce
   - [x] Update existing docs
-  - [ ] Publicize (ToTs)
+  - [x] Publicize (ToTs)
 - [ ] Clearly separate out guidance content from requirements content in the documentation
   - [ ] Update docs, and share in ToT, so it's clear that VFS teams need to come to the staging review w/their testing and artifacts complete, and the specifics of tasks that fall on VFS, VFS w/SME, vs VSP
   - [ ] Update docs so it's easy for VFS teams to follow the steps necessary to do their required testing and artifacts
